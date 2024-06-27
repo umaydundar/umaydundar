@@ -1,11 +1,7 @@
-- 👋 Hi, I’m @22202573
+- 👋 Hi, I’m @Umay Dündar
 - 👀 I’m interested in computer science and programming.
-- 🌱 I’m currently learning java.
-- 💞️ I’m looking to collaborate on ...
-- 📫My e mail adress is umay.dundar@ug.bilkent.edu.tr
--Im a freshman at Bilkent University.
+- 🌱 I learned and am still learning many programming languages such as Java, c++, c, Verilog, System Verilog, assembly, HTML, CSS, javascript and SQL.
+- 🌱 I’m currently learning 
+- 📫My e mail address is umay.dundar@ug.bilkent.edu.tr
+-I'm a 3rd year student at Bilkent University.
 
-<!---
-22202573/22202573 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
