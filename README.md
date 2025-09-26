@@ -10,5 +10,5 @@
   * Verilog, SystemVerilog
   * XML, JSON 
 - 📫 My e-mail address is umay.dundar@ug.bilkent.edu.tr
-- 📖 I'm a 3rd-year student at Bilkent University.
+- 📖 I'm currently 4th year CS student at Bilkent University.
 
